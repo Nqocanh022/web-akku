@@ -25,7 +25,6 @@ ul li {
 a{
     color: white;
     font-size: 20px;
-    justify-content: right;
 }
 .logo{
     padding: 5px;
@@ -55,7 +54,6 @@ button:hover {
 }
 .container-3{
    display: flex;
-   ;
     background-image: url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/refs/heads/main/image/09.jpg);
     gap: 20px;
     padding: 20px;
@@ -112,12 +110,6 @@ button:hover {
     grid-template-columns: repeat(3, 1fr);
     background-image: url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/refs/heads/main/image/10.jpg);
 }
-.box-1{
-    border: 2px solid rgb(121, 104, 104);
-    padding: 20px;
-    margin: 20px;
-    color: white;
-}
 .container-8{
     display: grid;
     text-align: center;
@@ -140,10 +132,6 @@ button:hover {
 .container-9{
     background-image: url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/refs/heads/main/image/09.jpg);
     text-align: center;
-}
-.box-3{
-    padding: 20px;
-    margin: 20px;
 }
 /* CONTACT */
 .container-10{
